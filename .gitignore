@@ -22,3 +22,10 @@ Thumbs.db
 .obsidian/hotkeys.json
 *.key
 *.pem
+# Simplified vault structure: keep personal working data local
+/90-资料库/04-日记/*.md
+!/90-资料库/04-日记/README.md
+/90-资料库/06-附件/**
+!/90-资料库/06-附件/README.md
+/90-资料库/99-私人笔记/
+/00-日常/私人*/
