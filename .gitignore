@@ -10,3 +10,15 @@ Thumbs.db
 .env
 .env.*
 !*.example
+
+# Private notes and AI plugin state in this PUBLIC repository
+99-私人笔记/
+04-日记/*.md
+!04-日记/README.md
+06-附件/**
+!06-附件/README.md
+.obsidian/plugins/
+.obsidian/community-plugins.json
+.obsidian/hotkeys.json
+*.key
+*.pem
